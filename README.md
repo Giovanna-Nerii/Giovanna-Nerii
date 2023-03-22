@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 
 
 -📚 Atualmente estou cursando o ensino m´wdio no SESI 402
+
 -💻 Cursando Tecnico em Desenvolvimento de Sistemas
+
 -🔎 Atualmente estou aprendendo progrmar em HTML e CSS
+
 -✉️ E-MAIL: giovannaneri08@gmail.com 
--
+
