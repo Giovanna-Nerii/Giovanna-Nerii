@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 -💻 Cursando Tecnico em Desenvolvimento de Sistemas
 
--🔎 Atualmente estou aprendendo progrmar em HTML e CSS
+-🔎 Atualmente estou aprendendo programar HTML e CSS
 
 -✉️ E-MAIL: giovannaneri08@gmail.com 
 
