@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
--📚 Atualmente estou cursando o ensino m´wdio no SESI 402
+-📚  Atualmente estou cursando o ensino médio no Sesi 402
 
 -💻 Cursando Tecnico em Desenvolvimento de Sistemas
 
